@@ -8,5 +8,7 @@
 3. Copy `.ENV.example` to `.ENV` and fill in the values
 4. Run `npm start` to ensure everything is working
 5. Modify the code to your liking
+\
 ![Repo Stars](https://img.shields.io/github/stars/SightedBike273/discord-bot-template.svg?style=social&label=Star&maxAge=2592000)
+\
 ![Repo Forks](https://img.shields.io/github/forks/SightedBike273/discord-bot-template.svg?style=social&label=Fork&maxAge=2592000)
