@@ -8,6 +8,10 @@
 3. Copy `.ENV.example` to `.ENV` and fill in the values
 4. Run `npm start` to ensure everything is working
 5. Modify the code to your liking
+
+## Don't know how to add more?
+
+Check out the discord.js guide! It's always updated to the latest version. [https://discordjs.guide](https://discordjs.guide) 
 \
 ![Repo Stars](https://img.shields.io/github/stars/SightedBike273/discord-bot-template.svg?style=social&label=Star&maxAge=2592000)
 \
